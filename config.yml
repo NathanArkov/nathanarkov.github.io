@@ -57,7 +57,7 @@ links:
       title: "My Portfolio"
       target: "_blank"
   - link:
-      icon: "fa-solid fa-resume"
+      icon: "fa-solid fa-file"
       text: "Resume"
       url: "./pdfs/Nathan_BRANGE_Resume.pdf"
       alt: "My resume (English)"
